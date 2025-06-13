@@ -1,0 +1,53 @@
+{
+    "P001": {
+      "name": "Ahmed Raza",
+      "city": "Lahore",
+      "age": 30,
+      "gender": "male",
+      "height": 1.75,
+      "weight": 95,
+      "bmi": 31.02,
+      "verdict": "Obese"
+    },
+    "P002": {
+      "name": "Fatima Khalid",
+      "city": "Karachi",
+      "age": 27,
+      "gender": "female",
+      "height": 1.6,
+      "weight": 70,
+      "bmi": 27.34,
+      "verdict": "Overweight"
+    },
+    "P003": {
+      "name": "Hassan Ali",
+      "city": "Islamabad",
+      "age": 25,
+      "gender": "male",
+      "height": 1.8,
+      "weight": 72,
+      "bmi": 22.22,
+      "verdict": "Normal"
+    },
+    "P004": {
+      "name": "Ayesha Siddiqui",
+      "city": "Multan",
+      "age": 32,
+      "gender": "female",
+      "height": 1.55,
+      "weight": 42,
+      "bmi": 17.47,
+      "verdict": "Underweight"
+    },
+    "P005": {
+      "name": "Bilal Khan",
+      "city": "Peshawar",
+      "age": 40,
+      "gender": "male",
+      "height": 1.78,
+      "weight": 88,
+      "bmi": 27.77,
+      "verdict": "Overweight"
+    }
+  }
+  
