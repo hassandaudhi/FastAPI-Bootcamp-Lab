@@ -42,25 +42,19 @@ Edit
 
 venv\Scripts\activate
 
-shell
-Copy
-Edit
+
 
 #### On macOS/Linux:
 
 source venv/bin/activate
 
-shell
-Copy
-Edit
+
 
 ### 4. Install Dependencies
 
 pip install -r requirements.txt
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -68,9 +62,7 @@ Edit
 
 uvicorn app.main:app --reload
 
-yaml
-Copy
-Edit
+
 
 > Ensure `app.main:app` is the correct path to your FastAPI application instance.
 
