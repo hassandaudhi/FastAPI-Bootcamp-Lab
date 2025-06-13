@@ -20,28 +20,34 @@ This repository contains hands-on FastAPI projects and code implementations deve
 ## 🛠️ Setup Instructions
 
 ### 🔧 1. Clone the Repository
-```bash
+```
 git clone https://github.com/hassandaudhi/FastAPI-Bootcamp-Lab.git
-cd FastAPI-Bootcamp-Lab
-🧪 2. Create Virtual Environment
-bash
+cd FastAPI-Bootcamp-Lab 
+```
+### 🧪 2. Create Virtual Environment
+```
 python -m venv venv
-🟢 3. Activate Environment
+```
+###🟢 3. Activate Environment
 Windows:
+```
 
-bash
 venv\Scripts\activate
+```
 Mac/Linux:
+```
 
-bash
 source venv/bin/activate
-📦 4. Install Dependencies
-bash
+```
+###📦 4. Install Dependencies
+```
 pip install -r requirements.txt
-🚀 Launch Development Server
-bash
+```
+###🚀 Launch Development Server
+```
 uvicorn app.main:app --reload
-📫 Connect With Me
+```
+###📫 Connect With Me
 GitHub: https://github.com/hassandaudhi
 
 LinkedIn: https://www.linkedin.com/in/hassan-daud-291465264/
